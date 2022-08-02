@@ -35,11 +35,11 @@
 *각각 모델별로 폴더가 준비되어 있습니다.*
 - [x]R-CNN 모델
 - [x]Fast R-CNN
-- [ ]RPN
-- [ ]Faster R-CNN
-- [ ]Mask R-CNN
-- [ ]Dectectron
-- [ ]Dectectron2
+- [  ]RPN
+- [  ]Faster R-CNN
+- [  ]Mask R-CNN
+- [  ]Dectectron
+- [  ]Dectectron2
 
 ## 진행 도중 발생한 문제점과 그 해결 과정
 
