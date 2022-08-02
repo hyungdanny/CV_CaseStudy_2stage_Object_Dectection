@@ -29,20 +29,31 @@
 
 
 ## 데이터셋설명 
-
+1. 데이터 출처 : 
+@article{DeepFashion2,
+  author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
+  title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
+  journal={CVPR},
+  year={2019}
+}
+2. 데이터 수량 : 13가지 옷 종류별 491K, 총 801K개
+3. 이미지 설명: 동일한 의류제품을 소비자와 판매자가 촬영한 사진이 ID로 연결되어 있다.
+4. Annotation : style, bounding_box, landmarks, segmentation, scale, occlusion, zoom_in, viewpoint 
 
 ## 진행과정
 *각각 모델별로 폴더가 준비되어 있습니다.*
 - [x] R-CNN 모델
 - [x] Fast R-CNN
-- [ ] RPN
 - [ ] Faster R-CNN
+- [ ] RPN
 - [ ] Mask R-CNN
 - [ ] Dectectron
 - [ ] Dectectron2
 
 ## 진행 도중 발생한 문제점과 그 해결 과정
 
+
 ## 결과물
+
 
 ## 한계점과 해결방안
