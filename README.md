@@ -29,7 +29,7 @@
 
 
 ## 데이터셋설명 
-1. 데이터 출처 : 
+1. 데이터 출처 : </br>
 @article{DeepFashion2,
   author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
   title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
